@@ -15,7 +15,6 @@ function App() {
         <h3 className="m-3 d-flex justify-content-center"> 
           React JS Tutorial
         </h3>
-
         <Navigation/>
         <Routes>
           <Route exact path='/' element={<Home/>}/>
